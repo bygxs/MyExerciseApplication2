@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
 
         int x= 5;
         int y = 10;
+        String greatness = "Through practice";
+
+        int b = 555;
+
 
 
     }
